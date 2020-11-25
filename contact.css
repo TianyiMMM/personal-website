@@ -1,0 +1,52 @@
+body {
+	background-color: #2a72a1;
+}
+
+h1 {
+	color: white;
+	margin-top: 50px;
+	margin-left: 45%;
+	font-family: Courier;
+}
+
+p {
+	color:white;
+	margin-top: 20px;
+  	margin-right: 20%;
+  	margin-left: 45%;
+	font-family: Courier;
+	font-size: 18px;
+}
+
+img {
+	margin-top: 30px;
+	margin-left: 25%;
+	width: 15%;
+	height: 15%;
+}
+
+a {
+	display:inline;
+	color:white;
+	margin-top: 20px;
+	font-family: Courier;
+	font-size: 18px;
+}
+
+.headURL1{
+	display:inline;
+	color:white;
+	margin-top: 20px;
+	margin-left: 5%;
+	font-family: Courier;
+	font-size: 18px;
+}
+
+.headURL2{
+	display:inline;
+	color:white;
+	margin-top: 20px;
+	margin-left: 10px;
+	font-family: Courier;
+	font-size: 18px;
+}

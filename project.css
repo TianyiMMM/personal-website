@@ -1,0 +1,21 @@
+body {
+	background-color: #2a72a1;
+}
+
+h1 {
+	color: white;
+	margin-top: 50px;
+	margin-right: 20%;
+	margin-left: 20%;
+	font-family: Courier;
+	text-align: center;
+}
+
+p {
+	color:white;
+	margin-top: 20px;
+  	margin-right: 20%;
+  	margin-left: 20%;
+	font-family: Courier;
+	font-size: 18px;
+}
